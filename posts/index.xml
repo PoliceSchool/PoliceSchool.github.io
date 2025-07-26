@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>https://example.org/posts/</link>
+    <link>https://policeschool.github.io/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 26 Jul 2025 21:15:53 +0800</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://policeschool.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Third_page</title>
-      <link>https://example.org/posts/third_page/</link>
+      <link>https://policeschool.github.io/posts/third_page/</link>
       <pubDate>Sat, 26 Jul 2025 21:15:53 +0800</pubDate>
-      <guid>https://example.org/posts/third_page/</guid>
+      <guid>https://policeschool.github.io/posts/third_page/</guid>
       <description></description>
     </item>
     <item>
       <title>Second_page</title>
-      <link>https://example.org/posts/second_page/</link>
+      <link>https://policeschool.github.io/posts/second_page/</link>
       <pubDate>Sat, 26 Jul 2025 21:14:40 +0800</pubDate>
-      <guid>https://example.org/posts/second_page/</guid>
+      <guid>https://policeschool.github.io/posts/second_page/</guid>
       <description></description>
     </item>
     <item>
       <title>First_page</title>
-      <link>https://example.org/posts/first_page/</link>
+      <link>https://policeschool.github.io/posts/first_page/</link>
       <pubDate>Sat, 26 Jul 2025 21:14:04 +0800</pubDate>
-      <guid>https://example.org/posts/first_page/</guid>
+      <guid>https://policeschool.github.io/posts/first_page/</guid>
       <description></description>
     </item>
   </channel>
