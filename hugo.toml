@@ -1,0 +1,11 @@
+baseURL = 'https://policeschool.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "PaperMod"
+[params]
+  mainSections = ["posts", "docs"]
+  showPostCategories = true
+  showBreadCrumbs = true
+[taxonomies]
+  category = "categories"
+  tag = "tags"
